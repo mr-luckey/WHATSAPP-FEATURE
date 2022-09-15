@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:flutter_plugin_android_lifecycle] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:audio_waveforms] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\audio_waveforms\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\9d1901cd3b2b06ef056c788134cdb715\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\engin\.gradle\caches\transforms-3\9b200a89acbc29f9b4a581085d3954fd\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\2dc4eec0eeac100cc8d5d4508a4d1b91\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\59d393a02b117f98806d5a5bdc1943ea\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\4796f4aa7f6b3fea6812ff74b5640d30\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\817e4cae9b49769dfb16fee95e27d357\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9297da370152d5817e29ac1ff43e7bee\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\1efdf8065ed6d2ff938bf94781b6e5fc\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\19bff44eead668a1b2d715e1d387b908\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\3b4bc647eb64864c17eaf9fc35de7d40\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\1f57e5c3e84a585bc08bb3d4fc686e7f\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\26afef6cda783a704f457bfeb7a58072\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9182710bd524d0d2f1457b2ca00b0984\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\6e58af611eadc7bd030e1edd6dcc7843\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9d041cc3af4b136d10e464287f3a88e9\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\0c29ac30652a4fdac107e9f3f59f7a08\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\e62e6de648c0ee4f854392e40844809b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\f6cb056ef03fd21d0c32331b858a178b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\engin\.gradle\caches\transforms-3\634d9ea42386be165af362c6b98c0c4f\transformed\recyclerview-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.4.3] C:\Users\engin\.gradle\caches\transforms-3\ff77995f829f7020950ed584dbcd6471\transformed\media-1.4.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\bf46d16e60dcaf08a1391406fecbcada\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\engin\.gradle\caches\transforms-3\9c82d58d3bce7558d7e233d53a3077ff\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\engin\.gradle\caches\transforms-3\05ce7336e3d9238febe7a921c7bc7d95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\engin\.gradle\caches\transforms-3\ab6813fdb9347a59b3b0c7f78a21b2a9\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\d668d13e043909a3a16c35c6f6842a89\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\engin\.gradle\caches\transforms-3\4fbe52b54dcaaf3abd1fb5ddd2f847f9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\engin\.gradle\caches\transforms-3\8cad563e685b74f1c65bd3bf29c0b10f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\engin\.gradle\caches\transforms-3\8cb8c69c4aea31137e6ee600f721ef36\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\engin\.gradle\caches\transforms-3\b8533e0534ef162007c8f4f2b8169929\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\engin\.gradle\caches\transforms-3\73c9af46ddf85331cae5748d0a9c355e\transformed\multidex-2.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\engin\.gradle\caches\transforms-3\b87f8691a2b64bc16343ba656767f658\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:2:5-50
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:3:5-71
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:3:22-68
+application
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:4:4-42:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\engin\.gradle\caches\transforms-3\9c82d58d3bce7558d7e233d53a3077ff\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\engin\.gradle\caches\transforms-3\9c82d58d3bce7558d7e233d53a3077ff\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\engin\.gradle\caches\transforms-3\05ce7336e3d9238febe7a921c7bc7d95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\engin\.gradle\caches\transforms-3\05ce7336e3d9238febe7a921c7bc7d95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\engin\.gradle\caches\transforms-3\9c82d58d3bce7558d7e233d53a3077ff\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:5:9-48
+	android:icon
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:6:9-43
+activity#com.simform.audio_waveforms_example.MainActivity
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:7:9-36:20
+	android:launchMode
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:9:13-43
+	android:hardwareAccelerated
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:13:13-47
+	android:windowSoftInputMode
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:14:13-55
+	android:exported
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:10:13-36
+	android:configChanges
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:12:13-163
+	android:theme
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:8:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:19:13-22:17
+	android:resource
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:21:15-52
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:20:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:28:13-31:17
+	android:resource
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:30:15-61
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:29:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:32:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:33:17-68
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:33:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:34:27-74
+meta-data#flutterEmbedding
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:39:9-41:33
+	android:value
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:41:13-30
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml:40:13-44
+uses-sdk
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml
+MERGED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audio_waveforms] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\audio_waveforms\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:audio_waveforms] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\audio_waveforms\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\9d1901cd3b2b06ef056c788134cdb715\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\9d1901cd3b2b06ef056c788134cdb715\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\engin\.gradle\caches\transforms-3\9b200a89acbc29f9b4a581085d3954fd\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\engin\.gradle\caches\transforms-3\9b200a89acbc29f9b4a581085d3954fd\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\2dc4eec0eeac100cc8d5d4508a4d1b91\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\2dc4eec0eeac100cc8d5d4508a4d1b91\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\59d393a02b117f98806d5a5bdc1943ea\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\59d393a02b117f98806d5a5bdc1943ea\transformed\jetified-exoplayer-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\4796f4aa7f6b3fea6812ff74b5640d30\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\4796f4aa7f6b3fea6812ff74b5640d30\transformed\jetified-exoplayer-dash-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\817e4cae9b49769dfb16fee95e27d357\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\817e4cae9b49769dfb16fee95e27d357\transformed\jetified-exoplayer-hls-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9297da370152d5817e29ac1ff43e7bee\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-rtsp:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9297da370152d5817e29ac1ff43e7bee\transformed\jetified-exoplayer-rtsp-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\1efdf8065ed6d2ff938bf94781b6e5fc\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\1efdf8065ed6d2ff938bf94781b6e5fc\transformed\jetified-exoplayer-smoothstreaming-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\19bff44eead668a1b2d715e1d387b908\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-ui:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\19bff44eead668a1b2d715e1d387b908\transformed\jetified-exoplayer-ui-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\3b4bc647eb64864c17eaf9fc35de7d40\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\3b4bc647eb64864c17eaf9fc35de7d40\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\1f57e5c3e84a585bc08bb3d4fc686e7f\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\1f57e5c3e84a585bc08bb3d4fc686e7f\transformed\jetified-exoplayer-datasource-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\26afef6cda783a704f457bfeb7a58072\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\26afef6cda783a704f457bfeb7a58072\transformed\jetified-exoplayer-database-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9182710bd524d0d2f1457b2ca00b0984\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9182710bd524d0d2f1457b2ca00b0984\transformed\jetified-exoplayer-extractor-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\6e58af611eadc7bd030e1edd6dcc7843\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\6e58af611eadc7bd030e1edd6dcc7843\transformed\jetified-exoplayer-decoder-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9d041cc3af4b136d10e464287f3a88e9\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9d041cc3af4b136d10e464287f3a88e9\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\0c29ac30652a4fdac107e9f3f59f7a08\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\0c29ac30652a4fdac107e9f3f59f7a08\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\e62e6de648c0ee4f854392e40844809b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\e62e6de648c0ee4f854392e40844809b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\f6cb056ef03fd21d0c32331b858a178b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\f6cb056ef03fd21d0c32331b858a178b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\engin\.gradle\caches\transforms-3\634d9ea42386be165af362c6b98c0c4f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.1] C:\Users\engin\.gradle\caches\transforms-3\634d9ea42386be165af362c6b98c0c4f\transformed\recyclerview-1.2.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\engin\.gradle\caches\transforms-3\ff77995f829f7020950ed584dbcd6471\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.4.3] C:\Users\engin\.gradle\caches\transforms-3\ff77995f829f7020950ed584dbcd6471\transformed\media-1.4.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\bf46d16e60dcaf08a1391406fecbcada\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\bf46d16e60dcaf08a1391406fecbcada\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\engin\.gradle\caches\transforms-3\9c82d58d3bce7558d7e233d53a3077ff\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\engin\.gradle\caches\transforms-3\9c82d58d3bce7558d7e233d53a3077ff\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\engin\.gradle\caches\transforms-3\05ce7336e3d9238febe7a921c7bc7d95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\engin\.gradle\caches\transforms-3\05ce7336e3d9238febe7a921c7bc7d95\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\engin\.gradle\caches\transforms-3\ab6813fdb9347a59b3b0c7f78a21b2a9\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\engin\.gradle\caches\transforms-3\ab6813fdb9347a59b3b0c7f78a21b2a9\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\d668d13e043909a3a16c35c6f6842a89\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\engin\.gradle\caches\transforms-3\d668d13e043909a3a16c35c6f6842a89\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\engin\.gradle\caches\transforms-3\4fbe52b54dcaaf3abd1fb5ddd2f847f9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\engin\.gradle\caches\transforms-3\4fbe52b54dcaaf3abd1fb5ddd2f847f9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\engin\.gradle\caches\transforms-3\8cad563e685b74f1c65bd3bf29c0b10f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\engin\.gradle\caches\transforms-3\8cad563e685b74f1c65bd3bf29c0b10f\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\engin\.gradle\caches\transforms-3\8cb8c69c4aea31137e6ee600f721ef36\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\engin\.gradle\caches\transforms-3\8cb8c69c4aea31137e6ee600f721ef36\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\engin\.gradle\caches\transforms-3\b8533e0534ef162007c8f4f2b8169929\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\engin\.gradle\caches\transforms-3\b8533e0534ef162007c8f4f2b8169929\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\engin\.gradle\caches\transforms-3\73c9af46ddf85331cae5748d0a9c355e\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] C:\Users\engin\.gradle\caches\transforms-3\73c9af46ddf85331cae5748d0a9c355e\transformed\multidex-2.0.1\AndroidManifest.xml:20:5-43
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\engin\.gradle\caches\transforms-3\b87f8691a2b64bc16343ba656767f658\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\engin\.gradle\caches\transforms-3\b87f8691a2b64bc16343ba656767f658\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-77
+queries
+ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] D:\GIGA DEVELOPERS\audio_waveforms-main\audio_waveforms-main\example\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\engin\.gradle\caches\transforms-3\7f829cc85751212984e45359126f79f3\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\3b4bc647eb64864c17eaf9fc35de7d40\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9d041cc3af4b136d10e464287f3a88e9\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\9d041cc3af4b136d10e464287f3a88e9\transformed\jetified-exoplayer-common-2.17.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.17.1] C:\Users\engin\.gradle\caches\transforms-3\3b4bc647eb64864c17eaf9fc35de7d40\transformed\jetified-exoplayer-core-2.17.1\AndroidManifest.xml:24:22-76

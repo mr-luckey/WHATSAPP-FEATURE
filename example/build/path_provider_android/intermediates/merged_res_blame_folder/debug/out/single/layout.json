@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\GIGA DEVELOPERS\\audio_waveforms-main\\audio_waveforms-main\\example\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\engin\\.gradle\\caches\\transforms-3\\85e5fddf4902be531a93d5d88218666a\\transformed\\core-1.6.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\GIGA DEVELOPERS\\audio_waveforms-main\\audio_waveforms-main\\example\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\engin\\.gradle\\caches\\transforms-3\\85e5fddf4902be531a93d5d88218666a\\transformed\\core-1.6.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\GIGA DEVELOPERS\\audio_waveforms-main\\audio_waveforms-main\\example\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\engin\\.gradle\\caches\\transforms-3\\85e5fddf4902be531a93d5d88218666a\\transformed\\core-1.6.0\\res\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "D:\\GIGA DEVELOPERS\\audio_waveforms-main\\audio_waveforms-main\\example\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\engin\\.gradle\\caches\\transforms-3\\85e5fddf4902be531a93d5d88218666a\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\GIGA DEVELOPERS\\audio_waveforms-main\\audio_waveforms-main\\example\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\engin\\.gradle\\caches\\transforms-3\\85e5fddf4902be531a93d5d88218666a\\transformed\\core-1.6.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\GIGA DEVELOPERS\\audio_waveforms-main\\audio_waveforms-main\\example\\build\\path_provider_android\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\engin\\.gradle\\caches\\transforms-3\\85e5fddf4902be531a93d5d88218666a\\transformed\\core-1.6.0\\res\\layout\\notification_template_part_time.xml"
+    }
+]
